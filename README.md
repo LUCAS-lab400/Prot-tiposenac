@@ -7,6 +7,7 @@ Esse é o repositorio oficial do projeto integrador 2 parte. Nosso sistema consi
 ## Aqui estão os protótipos
 
 ![](https://i.ibb.co/wz9rbZQ/Captura-de-Tela-22.png)
+
 ![](https://i.ibb.co/vm4Yz6z/Captura-de-Tela-25.png)
 ![](https://i.ibb.co/G5k9XRD/Captura-de-Tela-26.png)
 ![](https://i.ibb.co/z2058kq/Captura-de-Tela-27.png)
