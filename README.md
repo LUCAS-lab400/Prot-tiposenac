@@ -7,11 +7,11 @@ Esse é o repositorio oficial do projeto integrador 2 parte. Nosso sistema consi
 ## Aqui estão os protótipos
 
 ![](https://i.ibb.co/vm4Yz6z/Captura-de-Tela-25.png)
-![](https://i.ibb.co/G5k9XRD/Captura-de-Tela-26.png)
-![](https://i.ibb.co/z2058kq/Captura-de-Tela-27.png)
-![](https://i.ibb.co/27FRC2g/Captura-de-Tela-28.png)
-![](https://i.ibb.co/j8mrX5G/Captura-de-Tela-29.png)
-![](https://i.ibb.co/M85HkCQ/Captura-de-Tela-30.png)
+![](https://i.ibb.co/QCXfGnZ/Captura-de-Tela-36.png)
+![](https://i.ibb.co/SJ8RrYq/Captura-de-Tela-37.png)
+![](https://i.ibb.co/KG0Vxk6/Captura-de-Tela-38.png)
+![](https://i.ibb.co/qjYrk0S/Captura-de-Tela-39.png)
+![](https://i.ibb.co/Z1vyqZP/Captura-de-Tela-40.png)
 ## Diagrama de caso de uso
 ![](https://i.ibb.co/KyY3Ctw/Captura-de-Tela-32.png)
 UML
