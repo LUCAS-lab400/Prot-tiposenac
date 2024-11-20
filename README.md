@@ -1,6 +1,6 @@
 #Projeto PI 2
 
-Esse é o repositorio oficial do projeto integrador 2 parte. Nosso sistema consiste em um sistema para asministração de dados para uma universidade.
+Esse é o repositorio oficial do projeto integrador 2 parte. Nosso sistema consiste em um sistema para administração de dados para uma universidade.
 
 ------
 
