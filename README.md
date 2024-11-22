@@ -14,7 +14,7 @@ Esse é o repositorio oficial do projeto integrador 2 parte. Nosso sistema consi
 ![](https://i.ibb.co/CKTzX93/Captura-de-Tela-70.png)
 ## Diagrama de caso de uso
 ![](https://i.ibb.co/KyY3Ctw/Captura-de-Tela-32.png)
-UML
-![](https://i.ibb.co/P6kzNNR/Fluxograma-final.jpg)
+Diagrama de classe UML
+![](https://i.ibb.co/HB2M614/Captura-de-Tela-74.png)
 
 https://github.com/LUCAS-lab400/Prot-tipo
