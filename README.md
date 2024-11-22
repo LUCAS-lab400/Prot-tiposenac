@@ -3,6 +3,11 @@
 Esse é o repositorio oficial do projeto integrador 2 parte. Nosso sistema consiste em um sistema para administração de dados para uma universidade.
 
 ------
+#Projeto PI 2
+
+Esse é o repositorio oficial do projeto integrador 2 parte. Nosso sistema consiste em um sistema para administração de dados para uma universidade.
+
+------
 
 ## Aqui estão os protótipos
 
@@ -13,7 +18,7 @@ Esse é o repositorio oficial do projeto integrador 2 parte. Nosso sistema consi
 ![](https://i.ibb.co/MRYX9F9/Captura-de-Tela-67.png)
 ![](https://i.ibb.co/CKTzX93/Captura-de-Tela-70.png)
 ## Diagrama de caso de uso
-![](https://i.ibb.co/KyY3Ctw/Captura-de-Tela-32.png)
+![](https://i.ibb.co/VMMqwr0/Captura-de-Tela-22.png)
 Diagrama de classe UML
 ![](https://i.ibb.co/HB2M614/Captura-de-Tela-74.png)
 
