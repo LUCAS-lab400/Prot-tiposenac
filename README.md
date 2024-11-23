@@ -1,6 +1,6 @@
-#Projeto PI 2
+# Projeto PI 2
 
-Esse é o repositorio oficial do projeto integrador 2 parte. Nosso sistema consiste em um sistema para administração de dados para uma universidade.
+## Esse é o repositorio oficial do projeto integrador 2 parte. Nosso sistema consiste em um sistema para administração de dados para uma universidade.
 
 
 
@@ -14,9 +14,10 @@ Esse é o repositorio oficial do projeto integrador 2 parte. Nosso sistema consi
 ![](https://i.ibb.co/9sJqdTj/Captura-de-Tela-66.png)
 ![](https://i.ibb.co/MRYX9F9/Captura-de-Tela-67.png)
 ![](https://i.ibb.co/CKTzX93/Captura-de-Tela-70.png)
-## Diagrama de caso de uso
+### Diagrama de caso de uso
 ![](https://i.ibb.co/VMMqwr0/Captura-de-Tela-22.png)
-Diagrama de classe UML
+### Diagrama de classe UML
 ![](https://i.ibb.co/HB2M614/Captura-de-Tela-74.png)
 
-https://github.com/LUCAS-lab400/Prot-tipo
+
+[Participe do nosso grupo]([https://link-do-grupo.com](https://github.com/LUCAS-lab400/Prot-tiposenac)
